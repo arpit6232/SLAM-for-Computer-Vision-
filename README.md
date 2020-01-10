@@ -11,5 +11,3 @@ In this project, I'll implement SLAM (Simultaneous Localization and Mapping) for
 ## Result
 
 This project is finished and you can view the results in notebook 3.
-
-I will update this section soon.
